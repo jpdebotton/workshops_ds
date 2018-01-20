@@ -1,9 +1,3 @@
-DATASETS
+WORKSHOPS DS
 
-Este repositorio contiene los siguientes datasets:
-
-"Iris"
-"Titanic"
-"Fifa"
-
-El objetivo es utilizar los datasets para practicar visualización.
+Este repositorio contiene los materiales de Workshops abiertos de ciencia de datos efectuados en la CDMX durante 2018
